@@ -6,6 +6,6 @@
 
 # [Project 2:  Analyzing Chipotle Data](https://github.com/jleealejandro/ga_projects)
 
-# Project 3:  [Analyzing IMBD Data](https://github.com/jleealejandro/ga_projects)
+# [Project 3:  Analyzing IMBD Data](https://github.com/jleealejandro/ga_projects)
 
-# Project 4: [Linear Regression & KNN](https://github.com/jleealejandro/ga_projects)
+# [Project 4: Linear Regression & KNN](https://github.com/jleealejandro/ga_projects)
