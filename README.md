@@ -9,7 +9,7 @@
  For this project both Linear Regression and Random Forest Regression were used to predict MPG.  The Random Forest model produced slightly better results
   with an R2 score of 75.95 percent.
   
- ![](/images/MPG EDA.png)
+ ![image](/images/MPG EDA.png)
 
 
 
