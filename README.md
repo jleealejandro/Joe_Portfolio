@@ -5,8 +5,15 @@
 
 # Recent Projects
 
-# Project 1: MPG Data Analysis](https://github.com/jleealejandro/ga_projects)
+# [Project 1:  MPG Data Analysis](https://github.com/jleealejandro/ga_projects.git)
 
+# [Project 2:  Health Economics](https://github.com/jleealejandro/ga_projects.git)
+
+
+
+
+
+# Previous Projects
 
 # [Project 1:  Code Challenge](https://github.com/jleealejandro/ga_projects)
 
