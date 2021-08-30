@@ -32,7 +32,12 @@
 
 
 
+
 # [Project 2:  Health Economics](https://github.com/jleealejandro/ga_projects.git)
+This project explores the relationship between the average health spend of countries to their mortality rates.  The project was comprised of three data sets, average health
+spend per country, average male mortality rates and average female mortality rates.  
+The analysis of the data revealed that greater health spend did not translate into lower mortality rates for all countries.  Although in some cases this relationship was
+substantiated, there were a number of countries in which this did not hold true. This indicates that there are other intrinsic factors to consider.
 
 
 
