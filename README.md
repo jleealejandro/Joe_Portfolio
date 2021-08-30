@@ -40,6 +40,8 @@ The analysis of the data revealed that greater health spend did not translate in
 substantiated, there were a number of countries in which this did not hold true. This indicates that there are other intrinsic factors to consider.
 
 
+![Scatter Plots](https://github.com/jleealejandro/ga_projects/blob/main/images/Health%20Economics%20Mort_rate%20Scatter%20Plot.png?raw=true)
+
 
 
 
