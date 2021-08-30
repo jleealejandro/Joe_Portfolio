@@ -24,10 +24,7 @@
 
 
 
-![Health Spend](https://github.com/jleealejandro/ga_projects/blob/main/images/Health%20Economics%20Avg%20Spend%20Project.png?raw=true)
 
-
-![Mort Rate](https://github.com/jleealejandro/ga_projects/blob/main/images/Health%20Economics%20Mor_rate%20Male%20.png?raw=true)
 
 
 
@@ -49,6 +46,11 @@ substantiated, there were a number of countries in which this did not hold true.
 
 ![Scatter Plots](https://github.com/jleealejandro/ga_projects/blob/main/images/Health%20Economics%20Mort_rate%20Scatter%20Plot.png?raw=true)
 
+
+![Health Spend](https://github.com/jleealejandro/ga_projects/blob/main/images/Health%20Economics%20Avg%20Spend%20Project.png?raw=true)
+
+
+![Mort Rate](https://github.com/jleealejandro/ga_projects/blob/main/images/Health%20Economics%20Mor_rate%20Male%20.png?raw=true)
 
 
 
