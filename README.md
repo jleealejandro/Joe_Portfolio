@@ -27,6 +27,9 @@
 ![Health Spend](https://github.com/jleealejandro/ga_projects/blob/main/images/Health%20Economics%20Avg%20Spend%20Project.png?raw=true)
 
 
+![Mort Rate](https://github.com/jleealejandro/ga_projects/blob/main/images/Health%20Economics%20Mor_rate%20Male%20.png?raw=true)
+
+
 
 
 
